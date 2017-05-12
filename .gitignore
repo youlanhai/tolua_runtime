@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+xcuserdata/
+project.xcworkspace/
+macjit/build/
+macnojit/build/
